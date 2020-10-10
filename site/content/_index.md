@@ -1,7 +1,7 @@
 ---
 title: "A window to the world"
 subtitle: "Take a peek into my travel experiences and sights"
-image: /img/home-jumbotron.jpg
+image: IMG_2699.JPEG.jpg
 blurb:
     heading: "A Window to the world"
     text: "lorenepsumlorenepsum"
